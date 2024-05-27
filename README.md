@@ -1,6 +1,6 @@
 Descrição:
-A Calculadora de Ano Bissexto é um aplicativo desenvolvido no MIT App Inventor, projetado para verificar se um determinad
-o ano é bissexto. Anos bissextos são aqueles que têm um dia adicional em fevereiro, totalizando 29 dias. Este aplicativo oferece uma interfa
+A Calculadora de Ano Bissexto é um aplicativo desenvolvido no App Inventor, projetado para verificar se um determinado
+ ano é bissexto. Anos bissextos são aqueles que têm um dia adicional em fevereiro, totalizando 29 dias. Este aplicativo oferece uma interfa
 ce simples e intuitiva, permitindo que os usuários insiram um ano e descubram rapidamente se ele é bissexto.
 
 Funcionalidades:
